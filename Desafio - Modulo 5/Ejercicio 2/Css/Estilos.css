@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body { font-family: 'Roboto', sans-serif; ;}
+
+h2 {font-weight: 400; color:#04146c;font-size: 34px;}
+
+#logo { width: 5%;}
+
+a { font-size: 20px; 
+    font-family: 'roboto slab';
+    color: #04146c; 
+    font-weight: 400;
+    text-decoration: none;
+    margin-right: 10px;}
+
+
+form p, form label, input, textarea { font-size: 30px; 
+    display: block; 
+    color:#04146c;}
+
+input, textarea { width: 500px; 
+    height: 50px; 
+    border: 1px solid #2c00cc;}
+
+textarea { height: 100px;}
+
+label { font-weight: 700; 
+    margin-bottom: 15px;}
+
+.botones { width: 150px; 
+    height: 50px; color: white; 
+    display: inline; margin-top: 15px;}
+
+#reset { background-color:#f98500;
+    border:none; 
+    margin-right:15px;}
+
+#enviar { background-color:#2c00cc;}
+
+span { color: red;}
